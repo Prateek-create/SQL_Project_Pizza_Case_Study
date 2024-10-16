@@ -39,3 +39,5 @@ A pizza sales store manager can utilize this SQL project to extract valuable ins
 Conclusion:
 
 This SQL project not only serves as a robust data management system but also as a strategic tool for business intelligence. By maintaining comprehensive data on every aspect of the store's operations, the database allows store managers to make precise adjustments to improve both customer experience and profitability. When presented on a blog, this project can provide practical insights into how structured SQL queries can be used to harness data for real business applications, making it an excellent resource for aspiring data analysts and business owners alike.
+
+Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on https://www.linkedin.com/in/prateekwork22/
